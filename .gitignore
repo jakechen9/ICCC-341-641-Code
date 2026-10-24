@@ -13,4 +13,4 @@ __pycache__/
 
 .ipynb_checkpoints/
 
-.sample_audio/
+/sample_audio/
